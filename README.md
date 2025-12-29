@@ -11,7 +11,7 @@
   <a href="https://www.facebook.com/abanoubashraffawzy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="abanoubashraffawzy@gmail.com
+  <a href="[abanoubashraffawzy@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=abanoubashraffawzy@gmail.com)"
 " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
